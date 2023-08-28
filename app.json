@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "Minha Vida",
+    "slug": "Minha Vida",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/Icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/LogoInit.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#000000"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/LogoInit.png",
+        "backgroundColor": "#000000"
+      }
+    },
+    "web": {
+      "favicon": "./assets/Profile.png"
+    }
+  }
+}
